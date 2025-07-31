@@ -1,4 +1,3 @@
-# Color-Recognition
 Project for detecting red color using opencv
 # Color Detection using OpenCV
 
